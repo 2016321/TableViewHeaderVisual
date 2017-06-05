@@ -1,0 +1,6 @@
+framework module Pods_TableViewHeaderVisualUITests {
+  umbrella header "Pods-TableViewHeaderVisualUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
